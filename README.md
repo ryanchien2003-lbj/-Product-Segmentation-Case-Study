@@ -18,9 +18,9 @@ This is a data analysis project using unsupervised learning model to cluster cus
 
 
 # Business Insights
-Cluster 0 (Oldest, Average Income, Average Spenders): Focus on building loyalty, emphasizing reliability, comfort value. Campaigns should use traditional channels. The product should metion potentially health-related benefit.
-Cluster 1 (Middle Age, Highest Income, Lowest Spenders): Focus on exclusivity, prestige, unique features, and the investment value of products rather than price, and introduce ultra-premium, customizable, or limited-edition products.
-Cluster 2 (Young Age, High Income, Highest Spenders): Continuously innovate and introduce high-end, premium, and fashionable products are suitable for them.
-Cluster 3 (Middle Age, Lowest Income, Low Spenders): Focus on value proposition, affordability, and essential utility. Promote through clear price comparisons and discounts.
-Cluster 4 (Middle Age, Average Spenders):  Ensure a diverse range of reliable, good-quality products that cater to common needs and preferences. Avoid extremes in pricing or features.
-Cluster 5 (Youngest, Low Income, High Spenders): Focus on trending products that collaborate with popular youth brands or influencers, and give them multiple ways to pay, especially "buy now, pay later" services.
+**Cluster 0 (Oldest, Average Income, Average Spenders)**: Focus on building loyalty, emphasizing reliability, comfort value. Campaigns should use traditional channels. The product should metion potentially health-related benefit.
+**Cluster 1 (Middle Age, Highest Income, Lowest Spenders)**: Focus on exclusivity, prestige, unique features, and the investment value of products rather than price, and introduce ultra-premium, customizable, or limited-edition products.
+**Cluster 2 (Young Age, High Income, Highest Spenders)**: Continuously innovate and introduce high-end, premium, and fashionable products are suitable for them.
+**Cluster 3 (Middle Age, Lowest Income, Low Spenders)**: Focus on value proposition, affordability, and essential utility. Promote through clear price comparisons and discounts.
+**Cluster 4 (Middle Age, Average Spenders)**:  Ensure a diverse range of reliable, good-quality products that cater to common needs and preferences. Avoid extremes in pricing or features.
+**Cluster 5 (Youngest, Low Income, High Spenders)**: Focus on trending products that collaborate with popular youth brands or influencers, and give them multiple ways to pay, especially "buy now, pay later" services.
