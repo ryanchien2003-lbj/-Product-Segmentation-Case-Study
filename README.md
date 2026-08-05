@@ -1,10 +1,10 @@
--Product-Segmentation-Case-Study/
+# Product-Segmentation-Case-Study/
 This is a data analysis project using unsupervised learning model to cluster customers based on their income and spending behavior.
 
 
 #  Files in this Repository
-# Mall_Customers dataset.xlsx: A dataset of customers with columns of age, sex, income, and spending score (from 0-100).
-# ProductSegmentation (1).ipynb**: Main Jupyter Notebook containing the full analysis.
+**Mall_Customers dataset.xlsx**: A dataset of customers with columns of age, sex, income, and spending score (from 0-100).
+**ProductSegmentation (1).ipynb**: Main Jupyter Notebook containing the full analysis.
 
 # Analysis Workflow
 1. **Exploratory Data Analysis (EDA)**: Basic information of the dataset, including mean, standard deviation, maximum, and minimum.
