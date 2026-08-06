@@ -18,9 +18,14 @@ This is a data analysis project using unsupervised learning model to cluster cus
 
 
 # Business Insights
-**Cluster 0 (Oldest, Average Income, Average Spenders)**: Focus on building loyalty, emphasizing reliability, comfort value. Campaigns should use traditional channels. The product should metion potentially health-related benefit.
-**Cluster 1 (Middle Age, Highest Income, Lowest Spenders)**: Focus on exclusivity, prestige, unique features, and the investment value of products rather than price, and introduce ultra-premium, customizable, or limited-edition products.
-**Cluster 2 (Young Age, High Income, Highest Spenders)**: Continuously innovate and introduce high-end, premium, and fashionable products are suitable for them.
-**Cluster 3 (Middle Age, Lowest Income, Low Spenders)**: Focus on value proposition, affordability, and essential utility. Promote through clear price comparisons and discounts.
-**Cluster 4 (Middle Age, Average Spenders)**:  Ensure a diverse range of reliable, good-quality products that cater to common needs and preferences. Avoid extremes in pricing or features.
-**Cluster 5 (Youngest, Low Income, High Spenders)**: Focus on trending products that collaborate with popular youth brands or influencers, and give them multiple ways to pay, especially "buy now, pay later" services.
+**Cluster 0 (Older Age, Average Income, Medium Spenders)**:
+Focus on building loyalty, emphasizing reliability and comfort value. Campaigns should use traditional channels, and products can highlight practical durability, stability, and family-oriented benefits.
+
+**Cluster 1 (Middle Age, High Income, Low Spenders)**:
+Focus on exclusivity, prestige, unique features, and the investment or functional value of products rather than price. Introduce premium, high-quality, or durable goods that appeal to a pragmatic yet affluent mindset.
+
+**Cluster 2 (Younger Age, Moderate to High Income, Highest Spenders)**:
+Focus on continuous innovation by introducing high-end, trendy, and fashionable products. Since they have high spending enthusiasm, marketing campaigns can leverage digital channels, social media, and experiential engagement.
+
+**Cluster 3 (Middle-Aged to Senior, Lowest Income, Low Spenders)**:
+Focus on value proposition, affordability, and essential utility. Promote through clear price comparisons, cost-effectiveness, and practical discounts to attract budget-conscious consumers.
